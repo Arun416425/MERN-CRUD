@@ -28,12 +28,12 @@ Node.js (v14 or higher)
 MongoDB
 
 <p>1. Clone the repository</p>
-<li>Bash</li>
+<p>Bash</p>
 <pre>git clone https://github.com/yourusername/your-repo-name.git</pre>
-cd your-repo-name
-2. Setup Backend
-Bash
-cd backend
+<li>cd your-repo-name</li>
+<p>2. Setup Backend</p>
+<p>Bash</p>
+<p>cd backend</p>
 npm install
 # Create a .env file and add your MONGO_URL and PORT
 npm run dev
