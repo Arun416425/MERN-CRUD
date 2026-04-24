@@ -37,12 +37,13 @@ cd your-repo-name</pre>
 npm install
 # Create a .env file and add your MONGO_URL and PORT
 npm run dev</pre>
-3. Setup Frontend
-Bash
-cd ../frontend
+<p>3. Setup Frontend</p>
+<p>Bash</p>
+<pre>cd ../frontend
 npm install
-npm start
-📂 Project Structure
+npm start</pre>
+
+<h2>📂 Project Structure</h2>
 /client: React application source code.
 
 /server: Node/Express API and Mongoose models.
