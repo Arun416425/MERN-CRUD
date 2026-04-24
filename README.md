@@ -11,7 +11,7 @@
 <li>Delete: Remove users from the system with a confirmation flow.</li>
 
 <li>Toast Notifications: Real-time feedback using react-hot-toast.</li>
-
+<hr>
 <h3>🛠️ Tech Stack</h3>
 <li>Frontend: React, Axios, React Router, React Hot Toast</li>
 
