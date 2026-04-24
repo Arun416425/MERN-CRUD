@@ -44,9 +44,9 @@ npm install
 npm start</pre>
 
 <h2>📂 Project Structure</h2>
-/client: React application source code.
+<pre>/client:</pre> React application source code.
 
-/server: Node/Express API and Mongoose models.
+<pre>/server:</pre> Node/Express API and Mongoose models.
 
 📸 Screenshots
 (Optional: Add screenshots of your app here to make the README more engaging)
