@@ -1,7 +1,7 @@
-🚀 MERN Stack CRUD Application
-A full-stack web application built with the MERN (MongoDB, Express.js, React, Node.js) stack to perform Create, Read, Update, and Delete (CRUD) operations on user data.
+<h1>🚀 MERN Stack CRUD Application</h1>
+<p>A full-stack web application built with the MERN (MongoDB, Express.js, React, Node.js) stack to perform Create, Read, Update, and Delete (CRUD) operations on user data.</p>
 
-📋 Features
+<h3>📋 Features</h3>
 Create: Easily add new users to the database.
 
 Read: View a dynamic list of all registered users.
