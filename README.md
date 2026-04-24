@@ -33,10 +33,10 @@ MongoDB
 cd your-repo-name</pre>
 <p>2. Setup Backend</p>
 <p>Bash</p>
-<p>cd backend</p>
+<pre>cd backend
 npm install
 # Create a .env file and add your MONGO_URL and PORT
-npm run dev
+npm run dev</pre>
 3. Setup Frontend
 Bash
 cd ../frontend
