@@ -44,15 +44,7 @@ npm install
 npm start</pre>
 
 <h2>📂 Project Structure</h2>
-<pre>/client:</pre> React application source code.
+<li>/client: React application source code.</li>
 
-<pre>/server:</pre> Node/Express API and Mongoose models.
+<li>/server: Node/Express API and Mongoose models.</li>
 
-📸 Screenshots
-(Optional: Add screenshots of your app here to make the README more engaging)
-
-🤝 Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-📝 License
-This project is licensed under the MIT License.
