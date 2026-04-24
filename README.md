@@ -25,11 +25,11 @@
 Prerequisites
 Node.js (v14 or higher)
 
-MongoDB (Local or Atlas URI)
+MongoDB
 
-1. Clone the repository
-Bash
-git clone https://github.com/yourusername/your-repo-name.git
+<p>1. Clone the repository</p>
+<li>Bash</li>
+<pre>git clone https://github.com/yourusername/your-repo-name.git</pre>
 cd your-repo-name
 2. Setup Backend
 Bash
