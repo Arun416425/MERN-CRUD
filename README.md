@@ -2,17 +2,15 @@
 <p>A full-stack web application built with the MERN (MongoDB, Express.js, React, Node.js) stack to perform Create, Read, Update, and Delete (CRUD) operations on user data.</p>
 
 <h3>📋 Features</h3>
-Create: Easily add new users to the database.
+<li>Create: Easily add new users to the database.</li>
 
-Read: View a dynamic list of all registered users.
+<li>Read: View a dynamic list of all registered users.</li>
 
-Update: Modify existing user details seamlessly.
+<li>Update: Modify existing user details seamlessly.</li>
 
-Delete: Remove users from the system with a confirmation flow.
+<li>Delete: Remove users from the system with a confirmation flow.</li>
 
-Toast Notifications: Real-time feedback using react-hot-toast.
-
-Responsive UI: Styled for a clean user experience.
+<li>Toast Notifications: Real-time feedback using react-hot-toast.</li>
 
 🛠️ Tech Stack
 Frontend: React, Axios, React Router, React Hot Toast
