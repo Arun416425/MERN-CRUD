@@ -29,8 +29,8 @@ MongoDB
 
 <p>1. Clone the repository</p>
 <p>Bash</p>
-<pre>git clone https://github.com/yourusername/your-repo-name.git</pre>
-<li>cd your-repo-name</li>
+<pre>git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name</pre>
 <p>2. Setup Backend</p>
 <p>Bash</p>
 <p>cd backend</p>
