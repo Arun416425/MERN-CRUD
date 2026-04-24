@@ -12,16 +12,16 @@
 
 <li>Toast Notifications: Real-time feedback using react-hot-toast.</li>
 
-🛠️ Tech Stack
-Frontend: React, Axios, React Router, React Hot Toast
+<h3>🛠️ Tech Stack</h3>
+<li>Frontend: React, Axios, React Router, React Hot Toast</li>
 
-Backend: Node.js, Express.js
+<li>Backend: Node.js, Express.js</li>
 
-Database: MongoDB (Mongoose)
+<li>Database: MongoDB (Mongoose)</li>
 
-Styling: [e.g., CSS/Bootstrap/Tailwind]
+<li>Styling: [e.g., CSS/Bootstrap/Tailwind]</li>
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 Prerequisites
 Node.js (v14 or higher)
 
